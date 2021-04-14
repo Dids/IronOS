@@ -90,3 +90,4 @@ Other components such as FreeRTOS/USB-PD have their own licence.
 This software is provided as-is, so I cannot provide any commercial support for the firmware.
 However, you are more than welcome to distribute links to the firmware, or provide irons with this software on them.
 Please do not re-host the files, but rather link to this page, so that there are no old versions of the firmware scattered around.
+
